@@ -10,3 +10,4 @@ sklearn을 활용해 여러 머신러닝 기법들을 공부하고 실습한다.
 - 5.Support Vector Machine : SVM 기법 실습
 - 6.PCA Algorithm : PCA 기법 실습
 - 7.Ensemble Model Algorithm : 기법 실습
+- ML_titanic : 여러 머신러닝 기법들을 활용해 타이타닉의 생존확률을 구하는 모델 구축
